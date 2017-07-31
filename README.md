@@ -5,7 +5,7 @@
 ## Usage
 
 ``` bash
-$ go get github.com/antlinker/go-cmap
+$ go get github.com/fwhappy/go-cmap
 ```
 
 ## Benchmark
